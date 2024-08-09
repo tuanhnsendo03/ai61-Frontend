@@ -1,0 +1,101 @@
+{
+  "components": [
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "CtaSimpleJustified"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletter"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "NewsletterSimpleSideBySide"
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "FaqsCenteredAccordion"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "StatsWithDescription"
+    },
+    {
+      "id": "StatsWithDescription"
+    },
+    {
+      "id": "StatsSplitWithImage"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "gradient",
+  "title": "Drive Your Dreams with Ease",
+  "subtitle": "Discover hassle-free car rentals engineered for your comfort and convenience. Let's hit the road together!"
+}
